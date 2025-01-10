@@ -19,7 +19,7 @@ test와 교집합 필터링
 
 #### 💻 프로젝트 흐름
 
-** [데이터셋 전처리] **
+**[데이터셋 전처리]**
 - Undersampling
    -  데이터셋 불균형이 원인
    -  타겟 y (범주형, 0과 1) 에서 0의 비율이 1보다 훨씬 높음을 확인
@@ -45,7 +45,7 @@ test와 교집합 필터링
         - Stepwise를 통해 선택된 조합으로 학습
      
           
-** [시도 - 변수 불균형 해소를 위한 Undersampling] **
+**[시도 - 변수 불균형 해소를 위한 Undersampling]**
 - 원인
     - 매우 큰 데이터셋
     - 범주형 변수들의 불균형
@@ -60,7 +60,7 @@ test와 교집합 필터링
     - 하지만.. test error는 오히려 증가
     - 즉, overfitting….
 
-** [Modeling] **
+**[Modeling]**
 - lightgbm 과 xgb model을 base model로,
 
   logistic regression을 meta model 로 스태킹 진행
