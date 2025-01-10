@@ -1,4 +1,4 @@
-### FSI AIxData Challenge 2024
+## FSI AIxData Challenge 2024
   2024.07 ~ 2024.10 (3개월)
 --------
 
