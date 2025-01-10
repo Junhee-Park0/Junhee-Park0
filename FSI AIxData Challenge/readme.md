@@ -11,7 +11,7 @@
 - **금융 fine-tuning** 진행
 
 #### 💻 주요 업무 
-\grey [ 모델링 시도 및 테스트 ]
+*[ 모델링 시도 및 테스트 ]*
 - 데이터셋 : 네이버 x 창원대 NER 데이터, KLUE-BERT-Base 데이터
 - 모델 : 양방향 LSTM, 기초 BERT 모델, KLUE-BERT 모델, KoELECTRA 모델
 
